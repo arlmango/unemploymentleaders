@@ -2,3 +2,12 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Data files (large parquet)
+*.parquet
+
+# PDF slides
+*.pdf
+
+# Nested submodule
+unemploymentleaders/
